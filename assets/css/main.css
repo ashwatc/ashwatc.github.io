@@ -2984,6 +2984,13 @@ input, select, textarea {
 			color: #d3d4e4;
 		}
 
+		.wrapper.style4 {
+			background-color: #3B7EA1;
+			color: #d3d4e4;
+			padding-left: 50px;
+			padding-right: 50px;
+		}
+
 			.wrapper.style3 strong, .wrapper.style3 b {
 				color: #ffffff;
 			}
